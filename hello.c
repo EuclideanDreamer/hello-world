@@ -3,7 +3,7 @@
 //1/29/2021
 //main
 #include <stdio.h>
-main
+main()
 {
     printf("Hello World");
 }
